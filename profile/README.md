@@ -1,3 +1,8 @@
+<p align="center">
+	<img src="https://i.imgur.com/uaM1zFI.png" alt="San Andreas Trucking" width="256px" style="margin-top: 5vh;">
+</p>
+
+
 # San Andreas Trucking: 
 
 Welcome to San Andreas Trucking. A Rage Multiplayer trucking server.
